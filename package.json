@@ -1,0 +1,11 @@
+{
+  "name": "paralleltest",
+  "version": "0.0.1",
+  "description": "test paralleljs in electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
